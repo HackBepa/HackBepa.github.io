@@ -328,7 +328,7 @@ Ahora tenemos que guardar todos los inputs en un archivo para luego mandarlo al 
 
 yo he realizado el siguiente script:
 
-![lvl 24]({{ https://hackbepa.github.io }}/assets/img/bandit/nivel24.png)
+![lvl 24 1]({{ https://hackbepa.github.io }}/assets/img/bandit/nivel24_1.png)
 
 ![lvl 24 2]({{ https://hackbepa.github.io }}/assets/img/bandit/nivel24_2.png)
 

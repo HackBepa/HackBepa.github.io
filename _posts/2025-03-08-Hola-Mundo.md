@@ -12,4 +12,4 @@ Quiero seguir aprendiendo cada día y por esto mismo redacto este blog para comp
 
 Espero que disfruten mucho de este blog y espero que aprendan conmigo.
 
-![empezar viaje]({{ https://hackbepa.github.io }}/assets/img/zarpar.jpg)
+![empezar viaje]({{ https://hackbepa.github.io }}/assets/img/hola-mundo/zarpar.jpg)

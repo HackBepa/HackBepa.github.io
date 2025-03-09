@@ -2,7 +2,7 @@ site: HackBepa
 title: HackBepa
 greetings: Bienvenidos al blog! 👋
 description: >-
-  Blog
+  Bienvenidos a HackBepa, aquí subiré todo lo que vaya aprendiendo sean conceptos, resolución de máquinas, …
 lang: es-es
 timezone:  Europe/Spain
 repo: https://github.com/HackBepa # site repo [optional]
